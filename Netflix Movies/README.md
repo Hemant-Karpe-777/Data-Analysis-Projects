@@ -25,3 +25,8 @@ Include your 3–5 key visual screenshots or direct links from `images/`.
 - `data/`: CSV dataset
 - `notebook/`: Jupyter/Colab notebook
 - `images/`: Visual outputs
+
+## Author
+Hemant K  
+📧 hemant777.karpe@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/hemant-karpe)
