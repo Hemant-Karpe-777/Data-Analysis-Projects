@@ -27,6 +27,6 @@ Include your 3–5 key visual screenshots or direct links from `images/`.
 - `images/`: Visual outputs
 
 ## Author
-Hemant K  
+Hemant Karpe  
 📧 hemant777.karpe@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/hemant-karpe)
