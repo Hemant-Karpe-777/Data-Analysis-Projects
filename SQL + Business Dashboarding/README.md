@@ -66,7 +66,7 @@ It includes end-to-end steps from data cleaning, KPIs, visual dashboards, and re
 
 ---
 
-## 📌 Resume Snippet (You Can Use)
+## 📌 Resume Snippet 
 
 ```markdown
 📊 Superstore BI Dashboard (Power BI + SQL + Python)  
