@@ -21,7 +21,7 @@ Every project includes a well-documented notebook or dashboard, supporting datas
 - Explore sales trends by region, category, and segment.
 - Dashboard with KPIs, slicers, filters, and detailed visuals.
 - Tools: Power BI (PBIX), Excel, DAX
-- 📂 [View Project](./superstore)
+- 📂 [View Project](./Business%20Dashboarding)
 
 ---
 
@@ -29,7 +29,7 @@ Every project includes a well-documented notebook or dashboard, supporting datas
 - Understand survival trends based on age, class, sex, and family size.
 - Feature engineering and visual storytelling with plots.
 - Tools: Pandas, Matplotlib, Seaborn
-- 📂 [View Project](./titanic_Dataset)
+- 📂 [View Project](./Titanic_Dataset)
 
 ---
 
