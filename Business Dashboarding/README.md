@@ -6,7 +6,7 @@
 
 ## 🧾 Project Overview
 
-This project focuses on analyzing a **retail transactional dataset** from the [Kaggle Superstore dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).  
+This project focuses on analyzing a **retail transactional dataset**  from the [Kaggle Superstore dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).  
 It includes end-to-end steps from data cleaning, KPIs, visual dashboards, and real-world business insights.
 
 ---
@@ -62,7 +62,7 @@ It includes end-to-end steps from data cleaning, KPIs, visual dashboards, and re
 
 ---
 
-## 📌 Resume Snippet 
+## 📌 Snippet 
 
 ```markdown
 📊 Superstore BI Dashboard (Power BI + SQL + Python)  
