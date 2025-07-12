@@ -25,14 +25,10 @@ It includes end-to-end steps from data cleaning, KPIs, visual dashboards, and re
 ## 📈 Key Dashboards
 
 ### 📍 Sales by Region  
-![Sales by Region](images/sales_by_region.png)
 
 ### 📈 Monthly Sales Trend  
-![Monthly Sales](images/monthly_profit_trend.png)
 
 ### 🧾 Profit by Segment  
-![Profit by Segment](images/segment_wise_profit.png)
-
 
 ---
 
