@@ -26,13 +26,13 @@ It includes end-to-end steps from data cleaning, KPIs, visual dashboards, and re
 ## 📈 Key Dashboards
 
 ### 📍 Sales by Region  
-![Sales by Region](images/sales_by_region.png)
+![Sales by Region](images/sales by region.png)
 
 ### 📈 Monthly Sales Trend  
-![Monthly Sales](images/monthly_sales_trend.png)
+![Monthly Sales](images/monthly profit trends.png)
 
 ### 🧾 Profit by Segment  
-![Profit by Segment](images/profit_by_segment.png)
+![Profit by Segment](images/Segment-wise Sales & Profit.png)
 
 ---
 
@@ -66,7 +66,7 @@ It includes end-to-end steps from data cleaning, KPIs, visual dashboards, and re
 
 ---
 
-## 📌 Resume Snippet (You Can Use)
+## 📌 Resume Snippet 
 
 ```markdown
 📊 Superstore BI Dashboard (Power BI + SQL + Python)  
