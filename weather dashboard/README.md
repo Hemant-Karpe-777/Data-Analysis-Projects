@@ -10,7 +10,7 @@ It showcases my skills in data integration, visualization design, and UI/UX for 
 
 | Overview | Forecast & AQI |
 |----------|----------------|
-| ![Main View](./screenshots/dashboard_view_1.png) | ![Details](./Weather Dashboard.png) |
+| ![Main View](./images/Weather_Dashboard.png) | ![Details](./images/AQI.png) |
 
 ---
 
