@@ -30,6 +30,7 @@ It showcases my skills in data integration, visualization design, and UI/UX for 
 
 **Weather API**  
 🔗 [https://www.weatherapi.com](https://www.weatherapi.com)
+- sample : http://api.weatherapi.com/v1/current.json?key=enter_your_key&q=pune&aqi=yes
 
 - Endpoint used: `/current.json` and `/forecast.json`
 - Format: JSON
