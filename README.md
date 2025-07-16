@@ -33,6 +33,14 @@ Every project includes a well-documented notebook or dashboard, supporting datas
 
 ---
 
+### ☁️ 4. Weather Dashboard (Power BI)
+- Real-time weather monitoring dashboard with detailed metrics on temperature, humidity, air quality, and rain forecasts.
+- Visualizations: Forecast line charts, KPI cards, AQI radial gauge, sunrise/sunset tracker, and rain probability bars.
+- Tools: Power BI, DAX, WeatherAPI.com, JSON integration
+- 📂 [View Project](./weather-dashboard-powerbi)
+  
+---
+
 ## 🧠 Skills Demonstrated
 
 - ✅ Data Cleaning & Handling Missing Values
