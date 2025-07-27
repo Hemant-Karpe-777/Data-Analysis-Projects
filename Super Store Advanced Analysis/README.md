@@ -32,9 +32,9 @@
 
 ## 📊 Visuals
 
-<img src="images/correlation_heatmap.png" width="400"/> <img src="images/category_profit_bar.png" width="400"/>
-<img src="images/top_customers_chart.png" width="400"/> <img src="images/region_country_profit.png" width="400"/>
-
+<img src="images/Correlation%20between%20Key%20Metrics.png" width="400"/> <img src="images/Profit%20by%20Product%20Category.png" width="400"/>
+<img src="images/Top%2010%20Customers%20by%20Profit%20and%20Sales.png" width="400"/> <img src="images/Regional%20Profitability.png" width="400"/>
+<img src="images/Profit%20Heatmap%20by%20Region%20and%20Segment.png" width="400"/> <img src="images/Average%20Profit%20vs%20Discount.png" width="400"/>
 ---
 
 ## 📘 Tools Used
