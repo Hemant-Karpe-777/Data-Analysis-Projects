@@ -49,7 +49,9 @@
 📁 Superstore-EDA-Analysis/
 │
 ├── final_superstore_eda.ipynb     # Main notebook with full analysis
-├── README.md                      # Project summary + visuals
+├── README.md                     # Project summary + visuals
+├── 📁 notebook/                  # notebooks day by day
+├── 📁 table/                     # csv file (table) as output.
 ├── 📁 images/                     # All saved plots (png/jpeg)
 │   ├── category_profit_bar.png
 │   ├── top_customers_chart.png
@@ -65,7 +67,8 @@
 
 **Hemant Karpe**
 
-📎 Portfolio | 🧠 LinkedIn | 🐍 GitHub
+📧 [Email](mailto:hemant777.karpe@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/hemant-karpe) | 🐙 [GitHub](https://github.com/Hemant-Karpe-777)
+
 
 
 
